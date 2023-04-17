@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CPUusage">
+    <Position X="7.5" Y="0.75" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Typedef Name="CPUusage::int64_t" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CPUusage.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="CPUusage::uint64_t" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CPUusage.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EEAAAAAAAgAIAAAACCAIAAQAAAAAEAoAAAAAIAAAAAA=</HashCode>
+      <FileName>CPUusage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartHandle">
+    <Position X="0.5" Y="0.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAEAAAAAAAAAAAAAAQAAAACIBAAAAA=</HashCode>
+      <FileName>SmartHandle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="task_mgr">
+    <Position X="5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>task_mgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
